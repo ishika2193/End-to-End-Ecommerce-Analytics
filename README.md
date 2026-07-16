@@ -8,10 +8,7 @@ An end-to-end Data Analytics project on the Brazilian Olist E-commerce dataset, 
 
 ---
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/End-to-End-Ecommerce-Analytics?style=for-the-badge)
-![GitHub repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/End-to-End-Ecommerce-Analytics?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/End-to-End-Ecommerce-Analytics?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/YOUR_USERNAME/End-to-End-Ecommerce-Analytics?style=for-the-badge)
+
 
 </div>
 
